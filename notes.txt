@@ -9,4 +9,10 @@ Initialized empty Git repository in /Users/christopherschellenger/codingtemple/d
 (base) Christophers-iMac:day1 christopherschellenger$ git remote add main https://github.com/bubba1223/thecloud.git (added remote)
 (base) Christophers-iMac:day1 christopherschellenger$ git remote -v (checked remote)
 main    https://github.com/bubba1223/thecloud.git (fetch)
-main    https://github.com/bubba1223/thecloud.git (push)
+main    https://github.com/bubba1223/thecloud.git (push)            
+(base) Christophers-iMac:day1 christopherschellenger$ git push main   (push to main)
+Everything up-to-date       
+
+
+
+<!-- forking -->
