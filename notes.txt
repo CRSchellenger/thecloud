@@ -1,0 +1,12 @@
+catogrize the file folder 
+
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Christophers-iMac:day1 christopherschellenger$ git init
+Initialized empty Git repository in /Users/christopherschellenger/codingtemple/day1/.git/
+(base) Christophers-iMac:day1 christopherschellenger$ git remote add main https://github.com/bubba1223/thecloud.git (added remote)
+(base) Christophers-iMac:day1 christopherschellenger$ git remote -v (checked remote)
+main    https://github.com/bubba1223/thecloud.git (fetch)
+main    https://github.com/bubba1223/thecloud.git (push)
